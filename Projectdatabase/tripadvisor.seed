@@ -1,0 +1,10 @@
+value	cheap, good value, reasonable price, great for the price, very cheap, not pricey, affordable
+cleanliness	clean place, clean, very clean, good hygiene, good cleanliness, clean surroundings
+room	 spacious room, comfortable room, nice room, comfy room, great room, cozy rooms, bright room
+location	great location, nice location, great view, nice view, safe, very safe location
+service	helpful staff, polite staff, nice staff, excellent staff, good service, good staff, great service
+negative_value	bad value, very expensive, expensive
+negative_cleanliness	dirty, dirty room, bad hygiene 
+negative_room	narrow, uncomfortable, bad room, bad view, dim rooms
+negative_location	bad location, dangerous
+negative_service	bad staff, bad service
